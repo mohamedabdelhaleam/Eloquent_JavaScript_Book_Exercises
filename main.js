@@ -1,4 +1,4 @@
-// Chapter 1 
+// Chapter 2 
 
 // Looping a triangle 
 /**
