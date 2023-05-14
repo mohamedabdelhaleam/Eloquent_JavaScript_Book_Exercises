@@ -1,3 +1,3 @@
 # Eloquent_JavaScript_Book_Exercises
-Exercise 
+Exercises 
 Go to => main.js t
